@@ -1,0 +1,115 @@
+body {
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+ 
+
+#header {
+
+    padding: 0;
+
+    background-color: #6EA9E4;
+
+    margin: 0;
+
+    font-family: 'Inter', sans-serif;
+
+    color: white;
+
+    font-size: 40px;
+
+}
+
+ 
+
+img {
+
+    border-bottom-right-radius: 30px;
+
+    margin-right: 40px;
+
+}
+
+ 
+
+#apa{
+
+    background-color: white;
+
+    width: 250px;
+
+    height: 50px;
+
+    border-color: white;
+
+    border-radius: 10px;
+
+    box-shadow: black;
+
+    margin-left: 170px;
+
+    font-size: x-large;
+
+    color: #046DE6;
+
+}
+
+ 
+
+a{
+
+    margin-left: 70px;
+
+    font-size: 30px;
+
+    color: white;
+
+}
+
+ 
+
+#doa{
+
+    background-color: #046DE6;
+
+    width: 250px;
+
+    height: 50px;
+
+    border-color: #046DE6;
+
+    border-radius: 10px;
+
+    box-shadow: black;
+
+    color: white;
+
+    font-size: x-large;
+
+}
+
+#cati {
+    width: 60%;
+    text-align: center;
+}
+#footer {
+
+    padding: 0;
+
+    background-color: #6EA9E4;
+
+    margin-bottom: 0;
+
+    font-family: 'Inter', sans-serif;
+
+    color: white;
+
+    font-size: 40px;
+
+    padding: 25px;
+
+}
